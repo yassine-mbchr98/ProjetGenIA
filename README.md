@@ -64,7 +64,7 @@ Le modèle a été entraîné sur GPU (NVIDIA T4). Les métriques finales témoi
 * **Yassine MABCHOUR**
 * **Asmae HADAR**
 
-**Encadrant :** Pr. Mohamed ESSALIH  
+**Encadrant :** Khalid Nassiri  
 *Année Universitaire 2025-2026*
 
 ---
